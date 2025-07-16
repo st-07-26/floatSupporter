@@ -3,12 +3,12 @@ CSSのfloatプロパティ、clearプロパティ、clearfixを、HTMLのclass�
 
 ## class紹介
 
-**floatLeft** float: left;に相当する
-**floatright** float: right;に相当する
-**floatBoth** float: both;に相当する
+- **floatLeft** float: left;に相当する
+- **floatright** float: right;に相当する
+- **floatBoth** float: both;に相当する
 
-**clearLeft** clear: left;に相当する
-**clearRight** clear: right;に相当する
-**clearBoth** clear: both;に相当する
+- **clearLeft** clear: left;に相当する
+- **clearRight** clear: right;に相当する
+- **clearBoth** clear: both;に相当する
 
-**clearfix** clearfixを実行する
+- **clearfix** clearfixを実行する
