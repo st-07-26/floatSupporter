@@ -1,29 +1,29 @@
 .floatLeft {
-    float: left;
+	float: left;
 }
 
 .floatRight {
-    float: right;
+	float: right;
 }
 
 .floatBoth {
-    float: both;
+	float: both;
 }
 
 .clearLeft {
-    clear: left;
+	clear: left;
 }
 
 .clearRight {
-    clear: right;
+	clear: right;
 }
 
 .clearBoth {
-    clear: both;
+	clear: both;
 }
 
 .clearfix::after {
-    content: "";
-    display: table;
-    clear: both;
+	content: "";
+	display: table;
+	clear: both;
 }
